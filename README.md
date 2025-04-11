@@ -27,7 +27,7 @@ Supports various formats of IP/domain input to help you quickly search a large n
 
 # 📥 Installation Process
 ## For Google Chrome:
-![0.png](https://raw.githubusercontent.com/zoomeye-ai/ZoomEye-GPT/main/images/1.png)
+![0.png](https://raw.githubusercontent.com/zoomeye-ai/ZoomEye-GPT/main/images/0.png)
 
 1. Download the "ZoomEye GPT" zip file.
 2. Open "Manage Extensions"
