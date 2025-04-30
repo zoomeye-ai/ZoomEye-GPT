@@ -5,6 +5,12 @@ ZoomEye GPT is a browser extension designed specifically for cybersecurity profe
 
 ---
 
+# 🔗 Download Link
+
+ZoomEye GPT is available on the Chrome Web Store. Click the link below to install:
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Add%20to%20Chrome-blue)](https://chromewebstore.google.com/detail/ZoomEye%20GPT/lahdkcmbblckpepplldglpmaabdigkad)
+
 # 🚀 Features
 
 ## 🔍 Site Asset Overview (No Login Required)
